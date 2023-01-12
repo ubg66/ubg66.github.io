@@ -1,0 +1,17 @@
+{
+  "platform": "azerion",
+  "gameSlug": "solitaire-mahjong-juicy",
+  "gameBuild": "1.0.7",
+  "gameID": "64b0a9ceb7f943879840beeac587e3a0",
+  "gameTitle": "Solitaire Mahjong Juicy",
+  "interface": "sgSdk",
+  "leaderboardSupport": false,
+  "inAppPurchase": false,
+  "adsConfig": {
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 240000,
+    "enableLongGameplayAds": true,
+    "supportsAdPlayButton": false
+  }
+}
